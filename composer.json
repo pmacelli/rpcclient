@@ -1,5 +1,5 @@
 {
-    "name": "comodojo/rpcclient",
+    "name": "pmarcelli/rpcclient",
     "description": "XML and JSON(2.0) RPC client",
     "license": "MIT",
     "type": "library",
